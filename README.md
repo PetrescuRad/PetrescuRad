@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a 3rd year studying Software Engineering at McGill University
+- 🔭 I’m currently a 4th year studying Software Engineering at McGill University
 - 📫 How to reach me: www.linkedin.com/in/radu-petrescu-70b027222
 
 - Some projects that I've been working on:
